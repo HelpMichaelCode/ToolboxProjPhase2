@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{CBFB210B-ADCF-4899-80B0-E10ACEE52C72}|Default">
+  <MonoDevelop.Ide.ItemProperties.ToolBixPhase2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoreLab/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="CoreLab/Controllers/HomeController.cs" Line="21" Column="41" />
+      <File FileName="CoreLab/Program.cs" Line="24" Column="1" />
+      <File FileName="CoreLab/Models/VehicleData.cs" Line="56" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToolBoxPhase2" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

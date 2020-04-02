@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{CBFB210B-ADCF-4899-80B0-E10ACEE52C72}|Default">
+  <MonoDevelop.Ide.ItemProperties.CoreLab PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoreLab/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="CoreLab/Controllers/HomeController.cs" Line="19" Column="49" />
+      <File FileName="CoreLab/Program.cs" />
+      <File FileName="CoreLab/Models/VehicleData.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
